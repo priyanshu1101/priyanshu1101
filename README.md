@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about anything related to programming and web development
-- 📫 How to reach me: [Email](mailto:priyanshubansal35@gmail.com) | [LinkedIn](https://www.linkedin.com/in/priyanshu1101)
+- 📫 How to reach me: [✉](mailto:priyanshubansal35@gmail.com) | [in](https://www.linkedin.com/in/priyanshu1101)
 - ⚡ Fun fact: I enjoy solving algorithmic challenges on LeetCode and exploring new technologies!
 
 ### About Me
