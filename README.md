@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center" display="block">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Priyanshu+Bansal 👨‍💻;+Full+Stack+Developer;🔭+Currently+working+on+MERN+stack;🌱 Currently+learning+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Priyanshu+Bansal+👨‍💻;+Full+Stack+Developer;🔭+Currently+working+on+MERN+stack;🌱+Currently+learning+DSA" alt="Typing SVG" />
 </p>
 
 ### About Me
