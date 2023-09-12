@@ -56,6 +56,8 @@
 ## GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" />
 
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyanshu1101&show_icons=true&theme=codeSTACKr&border_color=FF6A00&bg_color=000" alt="swastik github stats" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1101&show_icons=true&theme=codeSTACKr&layout=compact&border_color=FF6A00&bg_color=000" alt="languages used" /></p>
 
 <br />
