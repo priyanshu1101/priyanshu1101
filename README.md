@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Priyanshu Bansal 
 </h2>
@@ -5,6 +6,31 @@
 <p align="center" display="block">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Priyanshu+Bansal;+Full+Stack+Developer;Currently+working+on+MERN+stack;" alt="Typing SVG" />
 </p>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on MERN stack 
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 👯 I’m looking to collaborate on web development projects
+- 💬 Ask me about anything related to programming and web development
+- ⚡ Fun fact: I enjoy solving algorithmic challenges on LeetCode and exploring new technologies!
+
+### About Me
+
+I am a Computer Science student passionate about software development and web technologies. Currently, I am pursuing my B.Tech degree in Computer Science and have a keen interest in learning and building new things.
+
+### Certifications
+
+- [Data Structure & Algorithm in C++](https://online.codingblocks.com/certificates/CBOL-180087-7105)
+- [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/certificate/UC-37e9a6df-a42c-4bf7-b404-8854fec63012/)
+
+### Skills
+
+- Programming: C++, Java, JavaScript
+- Web Development: HTML, CSS, React, Node.js, Express.js, MongoDB
+- Frameworks: Spring Boot, React, Redux, Bootstrap
+- Databases: MySQL, MongoDB
+- Tools: Git, GitHub, Material UI, DevOps
+- Interests: Data Structures and Algorithms, Web Development
 
 <h3 align="center"></h3>
 
