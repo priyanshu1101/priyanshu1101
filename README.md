@@ -55,11 +55,6 @@
 
 ## GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" />
 
-<!-- ![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=swastikpatro&show_icons=true&theme=codeSTACKr&border_color=FF6A00&bg_color=000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swastikpatro&show_icons=true&theme=codeSTACKr&layout=compact&border_color=FF6A00&bg_color=000)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyanshu1101&show_icons=true&theme=codeSTACKr&border_color=FF6A00&bg_color=000" alt="swastik github stats" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1101&show_icons=true&theme=codeSTACKr&layout=compact&border_color=FF6A00&bg_color=000" alt="languages used" /></p>
 
@@ -69,9 +64,9 @@
 
 ## My Favourite Projects
 
-<a href="https://github.com/swastikpatro/Vanilla-Ecommerce-Compfy">
+<a href="https://github.com/priyanshu1101/E_Commerce_Website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshu1101&repo=E_Commerce_Website&show_icons=true&theme=codeSTACKr&show_owner=true&border_color=ff6a00" />
 </a>
-<a href="https://github.com/swastikpatro/swastikpatro-portfolio">
+<a href="https://github.com/priyanshu1101/Social-Media-Application-Mern-Stack-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshu1101&repo=Social-Media-Application-Mern-Stack-&show_icons=true&theme=codeSTACKr&show_owner=true&border_color=ff6a00" />
 </a>
